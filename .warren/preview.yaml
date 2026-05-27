@@ -1,0 +1,9 @@
+type: server
+setup: pnpm install --frozen-lockfile
+command: pnpm exec vite dev --host 0.0.0.0 --port 3000
+port: 3000
+readiness_path: /
+connect_timeout: 5m
+readiness_timeout: 10m
+idle_ttl: 30m
+max_lifetime: 8h
