@@ -1,0 +1,12 @@
+[project]
+name = "start-convex-trellaux"
+default_branch = "main"
+
+[sandbox]
+network = "open"
+
+[env]
+required = ["VITE_CONVEX_URL"]
+
+[env.defaults]
+VITE_CONVEX_URL = "https://laudable-anaconda-558.convex.cloud"
