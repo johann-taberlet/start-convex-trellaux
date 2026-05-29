@@ -1,0 +1,18 @@
+{
+  "id": "plot-k171asfrnx1nt6ed90thsheg9987nkta",
+  "name": "Restore the ability to drag and drop cards.",
+  "status": "drafting",
+  "schema_version": 1,
+  "created_at": "2026-05-29T16:29:04.410Z",
+  "updated_at": "2026-05-29T16:29:04.410Z",
+  "intent": {
+    "goal": "Restore the ability to drag and drop cards.",
+    "non_goals": [],
+    "constraints": [],
+    "success_criteria": [
+      "Cards can be dragged and dropped successfully."
+    ]
+  },
+  "attachments": [],
+  "sd_plan": null
+}
