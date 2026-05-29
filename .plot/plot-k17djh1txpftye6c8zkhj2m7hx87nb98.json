@@ -1,0 +1,18 @@
+{
+  "id": "plot-k17djh1txpftye6c8zkhj2m7hx87nb98",
+  "name": "Ensure cards preserve their order after the page is refreshed.",
+  "status": "drafting",
+  "schema_version": 1,
+  "created_at": "2026-05-29T16:21:42.997Z",
+  "updated_at": "2026-05-29T16:21:42.997Z",
+  "intent": {
+    "goal": "Ensure cards preserve their order after the page is refreshed.",
+    "non_goals": [],
+    "constraints": [],
+    "success_criteria": [
+      "Cards appear in the same order after a page refresh as they did before the refresh."
+    ]
+  },
+  "attachments": [],
+  "sd_plan": null
+}
