@@ -1,0 +1,19 @@
+{
+  "id": "plot-1cd96a3f",
+  "name": "Add a selector that lets users choose between dark mode and light mode.",
+  "status": "drafting",
+  "schema_version": 1,
+  "created_at": "2026-05-29T15:58:17.199Z",
+  "updated_at": "2026-05-29T15:58:17.199Z",
+  "intent": {
+    "goal": "Add a selector that lets users choose between dark mode and light mode.",
+    "non_goals": [],
+    "constraints": [],
+    "success_criteria": [
+      "Users can access a mode selector.",
+      "Users can switch between dark mode and light mode."
+    ]
+  },
+  "attachments": [],
+  "sd_plan": null
+}
