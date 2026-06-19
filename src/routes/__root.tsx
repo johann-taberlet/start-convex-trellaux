@@ -92,7 +92,7 @@ function RootDocument({ children }: { children: React.ReactNode }) {
               <div>
                 <Link to="/" className="block leading-tight">
                   <div className="font-black text-2xl text-white">Trellaux</div>
-                  <div className="text-slate-500">a TanStack Demo</div>
+                  <div className="text-slate-500">a Live Preview Sandbox</div>
                 </Link>
               </div>
               <LoadingIndicator />
