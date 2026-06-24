@@ -14,7 +14,7 @@ function Home() {
 
   return (
     <div className="p-8 space-y-2">
-      <h1 className="text-2xl font-black">Boards</h1>
+      <h1 className="text-2xl font-black">Boards Workspace</h1>
       <ul className="flex flex-wrap list-disc">
         {boardsQuery.data.map((board) => (
           <li key={board.id} className="ml-4">
