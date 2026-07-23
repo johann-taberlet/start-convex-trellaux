@@ -93,6 +93,9 @@ function RootDocument({ children }: { children: React.ReactNode }) {
                 <Link to="/" className="block leading-tight">
                   <div className="font-black text-2xl text-white">Trellaux</div>
                   <div className="text-slate-500">a TanStack Demo</div>
+                  <div className="text-xs text-slate-600">
+                    native-burrow-upstream-20260528162829
+                  </div>
                 </Link>
               </div>
               <LoadingIndicator />
